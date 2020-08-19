@@ -1,0 +1,1042 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BandCampinas.br" tvg-name="Band Campinas SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/band.png" group-title="Canais: Abertos",Band Campinas SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/20.ts
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band Nordeste SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/band.png" group-title="Canais: Abertos",Band Nordeste SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/22.ts
+#EXTINF:-1 tvg-id="BandCampinas.br" tvg-name="Band SP HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/band.png" group-title="Canais: Abertos",Band SP HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/21.ts
+#EXTINF:-1 tvg-id="BandCampinas.br" tvg-name="Band SP SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/band.png" group-title="Canais: Abertos",Band SP SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/24.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cultura SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/tvcultura.png" group-title="Canais: Abertos",Cultura SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/316.ts
+#EXTINF:-1 tvg-id="" tvg-name="Futura HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/futura.png" group-title="Canais: Abertos",Futura HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/123.ts
+#EXTINF:-1 tvg-id="" tvg-name="Futura SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/futura.png" group-title="Canais: Abertos",Futura SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/122.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Vitoria SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/record.png" group-title="Canais: Abertos",Record TV Vitoria SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/245.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/redevida.png" group-title="Canais: Abertos",Rede Vida HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/259.ts
+#EXTINF:-1 tvg-id="" tvg-name="RedeTV! HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/redetv.png" group-title="Canais: Abertos",RedeTV! HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/257.ts
+#EXTINF:-1 tvg-id="" tvg-name="RedeTV! SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/redetv.png" group-title="Canais: Abertos",RedeTV! SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/256.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT Goias HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sbt.png" group-title="Canais: Abertos",SBT Goias HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/13415.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Nordeste HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sbt.png" group-title="Canais: Abertos",SBT Nordeste HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/263.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sbt.png" group-title="Canais: Abertos",SBT RJ HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66349.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sbt.png" group-title="Canais: Abertos",SBT SP HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/262.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sbt.png" group-title="Canais: Abertos",SBT SP SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/261.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV Aratu Bahia HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sbt.png" group-title="Canais: Abertos",SBT TV Aratu Bahia HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1038366.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV Cidade Verde Piaui HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sbt.png" group-title="Canais: Abertos",SBT TV Cidade Verde Piaui HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715076.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV Jornal Pernambuco SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sbt.png" group-title="Canais: Abertos",SBT TV Jornal Pernambuco SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715075.ts
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV Gazeta SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/tvgazeta.png" group-title="Canais: Abertos",TV Gazeta SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/321.ts
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/animalplanet.png" group-title="Canais: Documentários",Animal Planet HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/9.ts
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/animalplanet.png" group-title="Canais: Documentários",Animal Planet SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/8.ts
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/arte1.png" group-title="Canais: Documentários",Arte 1 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/11.ts
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/arte1.png" group-title="Canais: Documentários",Arte 1 SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/10.ts
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/curta.png" group-title="Canais: Documentários",Curta! HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/55.ts
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/curta.png" group-title="Canais: Documentários",Curta! SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/54.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoveryscience.png" group-title="Canais: Documentários",Discovery Science HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/65.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoveryscience.png" group-title="Canais: Documentários",Discovery Science SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/64.ts
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoverytheater.png" group-title="Canais: Documentários",Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/67.ts
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoverytheater.png" group-title="Canais: Documentários",Discovery Theater SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66.ts
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoveryworld.png" group-title="Canais: Documentários",Discovery World HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/71.ts
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoveryworld.png" group-title="Canais: Documentários",Discovery World SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/70.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/h2.png" group-title="Canais: Documentários",H2 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/169.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/h2.png" group-title="Canais: Documentários",H2 SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/168.ts
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoverycivilization.png" group-title="Canais: Documentários",HGTV HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/59.ts
+#EXTINF:-1 tvg-id="" tvg-name="HGTV SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoverycivilization.png" group-title="Canais: Documentários",HGTV SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/58.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History Channel HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/history.png" group-title="Canais: Documentários",History Channel HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/185.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History Channel SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/history.png" group-title="Canais: Documentários",History Channel SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/184.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID Investigação Discovery HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/id.png" group-title="Canais: Documentários",ID Investigação Discovery HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/188.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID Investigação Discovery SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/id.png" group-title="Canais: Documentários",ID Investigação Discovery SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/187.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="Nat Geo Wild HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/natgeowild.png" group-title="Canais: Documentários",Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/211.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="Nat Geo Wild SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/natgeowild.png" group-title="Canais: Documentários",Nat Geo Wild SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/210.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/nationalgeographic.png" group-title="Canais: Documentários",National Geographic HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/213.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/nationalgeographic.png" group-title="Canais: Documentários",National Geographic SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/212.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/bandsports.png" group-title="Canais: Esportes",Band Sports HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/28.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/bandsports.png" group-title="Canais: Esportes",Band Sports SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/27.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/combate.png" group-title="Canais: Esportes",Combate HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/49.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/combate.png" group-title="Canais: Esportes",Combate SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/48.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN #1" tvg-logo="" group-title="Canais: Esportes",DAZN #1
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032873.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN #2" tvg-logo="" group-title="Canais: Esportes",DAZN #2
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032889.ts
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/espn2.png" group-title="Canais: Esportes",ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/91.ts
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/espn2.png" group-title="Canais: Esportes",ESPN 2 SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/90.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/espnbrasil.png" group-title="Canais: Esportes",ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/88.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/espnbrasil.png" group-title="Canais: Esportes",ESPN Brasil SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/87.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/espnextra.png" group-title="Canais: Esportes",ESPN Extra HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755664.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/espnextra.png" group-title="Canais: Esportes",ESPN Extra SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755663.ts
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/espn.png" group-title="Canais: Esportes",ESPN HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/86.ts
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/espn.png" group-title="Canais: Esportes",ESPN SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/85.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/fishtv.png" group-title="Canais: Esportes",Fish TV HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/102.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/fishtv.png" group-title="Canais: Esportes",Fish TV SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/101.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/foxsports2.png" group-title="Canais: Esportes",Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/121.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/foxsports2.png" group-title="Canais: Esportes",Fox Sports 2 SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/120.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/foxsports1.png" group-title="Canais: Esportes",Fox Sports HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/118.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/foxsports1.png" group-title="Canais: Esportes",Fox Sports SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/117.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="Off HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/off.png" group-title="Canais: Esportes",Off HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/223.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="Off SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/off.png" group-title="Canais: Esportes",Off SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/222.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sportv2.png" group-title="Canais: Esportes",SporTV 2 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/275.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sportv2.png" group-title="Canais: Esportes",SporTV 2 SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/274.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sportv3.png" group-title="Canais: Esportes",SporTV 3 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/278.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sportv3.png" group-title="Canais: Esportes",SporTV 3 SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/277.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sportv.png" group-title="Canais: Esportes",SporTV HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/273.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sportv.png" group-title="Canais: Esportes",SporTV SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/272.ts
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 2020 #1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais: Esportes",Copa do Nordeste 2020 #1
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1120005.ts
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 2020 #4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais: Esportes",Copa do Nordeste 2020 #4
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1120008.ts
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 2020 #3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais: Esportes",Copa do Nordeste 2020 #3
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1120007.ts
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 2020 #2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais: Esportes",Copa do Nordeste 2020 #2
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1120006.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN #4" tvg-logo="" group-title="Canais: Esportes",DAZN #4
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1120010.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN #3" tvg-logo="" group-title="Canais: Esportes",DAZN #3
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1120009.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/ae.png" group-title="Canais: Filmes e Séries",A&E HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/2.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/ae.png" group-title="Canais: Filmes e Séries",A&E SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1.ts
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/amc.png" group-title="Canais: Filmes e Séries",AMC HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/5.ts
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/amc.png" group-title="Canais: Filmes e Séries",AMC SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/4.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/axn.png" group-title="Canais: Filmes e Séries",AXN HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/13.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/axn.png" group-title="Canais: Filmes e Séries",AXN SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/12.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sony.png" group-title="Canais: Filmes e Séries",Canal Sony HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/266.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sony.png" group-title="Canais: Filmes e Séries",Canal Sony SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/265.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/cinesky.png" group-title="Canais: Filmes e Séries",CINE SKY 01 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1066011.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/cinesky.png" group-title="Canais: Filmes e Séries",CINE SKY 02 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1066012.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/cinesky.png" group-title="Canais: Filmes e Séries",CINE SKY 03 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1066013.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/cinesky.png" group-title="Canais: Filmes e Séries",CINE SKY 04 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1066014.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/cinesky.png" group-title="Canais: Filmes e Séries",CINE SKY 05 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1066015.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/cinesky.png" group-title="Canais: Filmes e Séries",CINE SKY 06 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1066016.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/cinesky.png" group-title="Canais: Filmes e Séries",CINE SKY 07 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1066017.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/cinesky.png" group-title="Canais: Filmes e Séries",CINE SKY 08 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1066018.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/cinesky.png" group-title="Canais: Filmes e Séries",CINE SKY 09 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1066019.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/cinesky.png" group-title="Canais: Filmes e Séries",CINE SKY 10 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1066020.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/cinemax.png" group-title="Canais: Filmes e Séries",Cinemax HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/44.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/cinemax.png" group-title="Canais: Filmes e Séries",Cinemax SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/43.ts
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/comedycentral.png" group-title="Canais: Filmes e Séries",Comedy Central HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/52.ts
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/comedycentral.png" group-title="Canais: Filmes e Séries",Comedy Central SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/51.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Fox HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/fox.png" group-title="Canais: Filmes e Séries",Fox HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/107.ts
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/foxlife.png" group-title="Canais: Filmes e Séries",Fox Life HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/109.ts
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/foxlife.png" group-title="Canais: Filmes e Séries",Fox Life SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/108.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/foxpremium1.png" group-title="Canais: Filmes e Séries",Fox Premium 1 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/112.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/foxpremium1.png" group-title="Canais: Filmes e Séries",Fox Premium 1 SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/111.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/foxpremium2.png" group-title="Canais: Filmes e Séries",Fox Premium 2 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/115.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/foxpremium2.png" group-title="Canais: Filmes e Séries",Fox Premium 2 SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/114.ts
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Fox SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/fox.png" group-title="Canais: Filmes e Séries",Fox SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/106.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/fx.png" group-title="Canais: Filmes e Séries",FX HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/99.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/fx.png" group-title="Canais: Filmes e Séries",FX SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/98.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/megapix.png" group-title="Canais: Filmes e Séries",Megapix HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/202.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/megapix.png" group-title="Canais: Filmes e Séries",Megapix SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/201.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Channel HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/paramount.png" group-title="Canais: Filmes e Séries",Paramount Channel HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/226.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Channel SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/paramount.png" group-title="Canais: Filmes e Séries",Paramount Channel SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/225.ts
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PlayTV SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/playtv.png" group-title="Canais: Filmes e Séries",PlayTV SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/227.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/space.png" group-title="Canais: Filmes e Séries",Space HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/269.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/space.png" group-title="Canais: Filmes e Séries",Space SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/268.ts
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/tbs.png" group-title="Canais: Filmes e Séries",TBS SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/286.ts
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/tcm.png" group-title="Canais: Filmes e Séries",TCM SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/288.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/tnt.png" group-title="Canais: Filmes e Séries",TNT HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/292.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/tnt.png" group-title="Canais: Filmes e Séries",TNT SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/291.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Séries HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/tntseries.png" group-title="Canais: Filmes e Séries",TNT Séries HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/294.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Séries SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/tntseries.png" group-title="Canais: Filmes e Séries",TNT Séries SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/293.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/warner.png" group-title="Canais: Filmes e Séries",Warner Channel HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/332.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/warner.png" group-title="Canais: Filmes e Séries",Warner Channel SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/331.ts
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="Globo Anhanguera Goiania SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo Anhanguera Goiania SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/127.ts
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="Globo TV Caruaru (Asa Branca) HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Caruaru (Asa Branca) HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/147.ts
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo Brasilia SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/129.ts
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="Globo Centro América Cuiaba SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo Centro América Cuiaba SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/130.ts
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo EPTV Araraquara SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo EPTV Araraquara SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1036446.ts
+#EXTINF:-1 tvg-id="Eptvcampinas.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/132.ts
+#EXTINF:-1 tvg-id="Eptvcampinas.br" tvg-name="Globo EPTV Campinas SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo EPTV Campinas SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/131.ts
+#EXTINF:-1 tvg-id="Eptvrpreto.br" tvg-name="Globo EPTV Ribeirao Preto SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo EPTV Ribeirao Preto SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/134.ts
+#EXTINF:-1 tvg-id="Eptvrpreto.br" tvg-name="Globo EPTV Sao Carlos SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo EPTV Sao Carlos SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/135.ts
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="Globo INTER TV Cabugi RN SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo INTER TV Cabugi RN SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715073.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Internacional SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo Internacional SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/160.ts
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="Globo InterTV Alto Litoral HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo InterTV Alto Litoral HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1036430.ts
+#EXTINF:-1 tvg-id="Intertvserramar.br" tvg-name="Globo InterTV Serra Mar HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo InterTV Serra Mar HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032884.ts
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo Minas HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/137.ts
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo Minas SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/136.ts
+#EXTINF:-1 tvg-id="nordestv.br" tvg-name="Globo Nordeste HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo Nordeste HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/140.ts
+#EXTINF:-1 tvg-id="nordestv.br" tvg-name="Globo Nordeste SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo Nordeste SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/139.ts
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="Globo NSC Blumenau HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo NSC Blumenau HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032881.ts
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="Globo NSC Florianópolis HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo NSC Florianópolis HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032894.ts
+#EXTINF:-1 tvg-id="Globonscjoinville.br" tvg-name="Globo NSC Joinville SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo NSC Joinville SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1038312.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="Globo RBS Porto Alegre HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo RBS Porto Alegre HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/146.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="Globo RBS Porto Alegre SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo RBS Porto Alegre SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/138.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo RBS TV Pelotas HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032888.ts
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="Globo Rede Amazonica SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo Rede Amazonica SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1036445.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo RJ HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/143.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo RJ SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/142.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="Globo RPC Curitiba HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo RPC Curitiba HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715081.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="Globo RPC Curitiba SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo RPC Curitiba SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715080.ts
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="Globo RPC Maringa SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo RPC Maringa SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1038313.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Paranavaí SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo RPC Paranavaí SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032893.ts
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="Globo TV Sergipe HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Sergipe HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/714891.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo SP HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/149.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo SP SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/148.ts
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Bahia HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Bahia HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1036431.ts
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Bahia SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Bahia SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/128.ts
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="Globo TV Cabo Branco HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Cabo Branco HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1066010.ts
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="Globo TV Cabo Branco SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Cabo Branco SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1066009.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo TV Diario HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Diario HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032895.ts
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Gazeta Sul ES HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1036428.ts
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="Globo TV Gazeta Vitória HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Gazeta Vitória HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1038365.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Itapetininga SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Itapetininga SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032883.ts
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="Globo TV Liberal Belem SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Liberal Belem SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/151.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Mirante SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032882.ts
+#EXTINF:-1 tvg-id="TV Morena HD" tvg-name="Globo TV Morena SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Morena SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/126.ts
+#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="Globo TV Tem Bauru SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Tem Bauru SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/153.ts
+#EXTINF:-1 tvg-id="Eptvrpreto.br" tvg-name="Globo TV Tem Rio Preto SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Tem Rio Preto SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/716149.ts
+#EXTINF:-1 tvg-id="Tvtemsorocaba.br" tvg-name="Globo TV Tem Sorocaba SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Tem Sorocaba SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/154.ts
+#EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="Globo TV Tribuna Santos SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Tribuna Santos SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/155.ts
+#EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="Globo TV Vanguarda Sâo José Dos Campos SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Vanguarda Sâo José Dos Campos SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/156.ts
+#EXTINF:-1 tvg-id="Redetvfortaleza.br" tvg-name="Globo TV Verdes Mares Fortaleza SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Verdes Mares Fortaleza SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/157.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/redevida.png" group-title="Canais: Globo",Rede Vida SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/258.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Nacional HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Nacional HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1067627.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Petrolina HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo Petrolina HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1067626.ts
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/canalbrasil.png" group-title="Canais: Globosat Filmes",Canal Brasil SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/32.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/studiouniversal.png" group-title="Canais: Globosat Filmes",Studio Universal HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/280.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/studiouniversal.png" group-title="Canais: Globosat Filmes",Studio Universal SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/279.ts
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/syfy.png" group-title="Canais: Globosat Filmes",SyFy HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/283.ts
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/syfy.png" group-title="Canais: Globosat Filmes",SyFy SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/282.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecineaction.png" group-title="Canais: Globosat Filmes",Telecine Action HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/296.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecineaction.png" group-title="Canais: Globosat Filmes",Telecine Action SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/295.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecinecult.png" group-title="Canais: Globosat Filmes",Telecine Cult HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/299.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecinecult.png" group-title="Canais: Globosat Filmes",Telecine Cult SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/298.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecinefun.png" group-title="Canais: Globosat Filmes",Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/302.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecinefun.png" group-title="Canais: Globosat Filmes",Telecine Fun SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/301.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecinepipoca.png" group-title="Canais: Globosat Filmes",Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/305.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecinepipoca.png" group-title="Canais: Globosat Filmes",Telecine Pipoca SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/304.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecinepremium.png" group-title="Canais: Globosat Filmes",Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/308.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecinepremium.png" group-title="Canais: Globosat Filmes",Telecine Premium SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/307.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecinetouch.png" group-title="Canais: Globosat Filmes",Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/310.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecinetouch.png" group-title="Canais: Globosat Filmes",Telecine Touch SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/309.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/universalchannel.png" group-title="Canais: Globosat Filmes",Universal Channel HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/326.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/universalchannel.png" group-title="Canais: Globosat Filmes",Universal Channel SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/325.ts
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BabyTV HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/babytv.png" group-title="Canais: Infantil",BabyTV HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/18.ts
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BabyTV SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/babytv.png" group-title="Canais: Infantil",BabyTV SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/17.ts
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/boomerang.png" group-title="Canais: Infantil",Boomerang HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/30.ts
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/boomerang.png" group-title="Canais: Infantil",Boomerang SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/29.ts
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/cartoon.png" group-title="Canais: Infantil",Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/38.ts
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/cartoon.png" group-title="Canais: Infantil",Cartoon Network SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/37.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoverykids.png" group-title="Canais: Infantil",Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/63.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoverykids.png" group-title="Canais: Infantil",Discovery Kids SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/62.ts
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/disney.png" group-title="Canais: Infantil",Disney Channel HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/73.ts
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/disney.png" group-title="Canais: Infantil",Disney Channel SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/72.ts
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/disneyjr.png" group-title="Canais: Infantil",Disney Junior HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/75.ts
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/disneyjr.png" group-title="Canais: Infantil",Disney Junior SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/74.ts
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/disneyxd.png" group-title="Canais: Infantil",Disney XD HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/78.ts
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/disneyxd.png" group-title="Canais: Infantil",Disney XD SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/77.ts
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/gloob.png" group-title="Canais: Infantil",Gloob HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/167.ts
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/gloob.png" group-title="Canais: Infantil",Gloob SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/166.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/gloobinho.png" group-title="Canais: Infantil",Gloobinho SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032896.ts
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="Nat Geo Kids HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/natgeokids.png" group-title="Canais: Infantil",Nat Geo Kids HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/208.ts
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="Nat Geo Kids SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/natgeokids.png" group-title="Canais: Infantil",Nat Geo Kids SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/207.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/nickjr.png" group-title="Canais: Infantil",Nick Jr HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/216.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/nickjr.png" group-title="Canais: Infantil",Nick Jr SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/215.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/nick.png" group-title="Canais: Infantil",Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/219.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/nick.png" group-title="Canais: Infantil",Nickelodeon SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/218.ts
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/tooncast.png" group-title="Canais: Infantil",Tooncast HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/313.ts
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/tooncast.png" group-title="Canais: Infantil",Tooncast SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/312.ts
+#EXTINF:-1 tvg-id="ElitePlayKids.br" tvg-name="TV Playkids" tvg-logo="http://img.rtrmsrv22.gq/images/logos/tvplaykids.png" group-title="Canais: Infantil",TV Playkids
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755754.ts
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV Ra Tim Bum SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/ratimbum.png" group-title="Canais: Infantil",TV Ra Tim Bum SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755752.ts
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="Zoomoo HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/zoomoo.png" group-title="Canais: Infantil",Zoomoo HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/336.ts
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="Zoomoo SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/zoomoo.png" group-title="Canais: Infantil",Zoomoo SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/335.ts
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="Bis HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/bis.png" group-title="Canais: Musicas",Bis HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/16.ts
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="Bis SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/bis.png" group-title="Canais: Musicas",Bis SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/15.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/mtv.png" group-title="Canais: Musicas",MTV FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/714893.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/mtv.png" group-title="Canais: Musicas",MTV HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/192.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/mtvlive.png" group-title="Canais: Musicas",MTV Live HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/368.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/mtv.png" group-title="Canais: Musicas",MTV SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/191.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/multishow.png" group-title="Canais: Musicas",Multishow HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/204.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/multishow.png" group-title="Canais: Musicas",Multishow SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/203.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/musicboxbrazil.png" group-title="Canais: Musicas",Music Box Brazil SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/206.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/primeboxbrazil.png" group-title="Canais: Musicas",Prime Box Brazil SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755753.ts
+#EXTINF:-1 tvg-id="" tvg-name="Top TV SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/toptv.png" group-title="Canais: Musicas",Top TV SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1038367.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/vh1.png" group-title="Canais: Musicas",VH1 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/328.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/vh1.png" group-title="Canais: Musicas",VH1 SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/327.ts
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/band.png" group-title="Canais: Notícias",Band News HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/26.ts
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/band.png" group-title="Canais: Notícias",Band News SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/25.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil HD" tvg-logo="http://static.clubsrv.me/logos/canais/cnn.png" group-title="Canais: Notícias",CNN Brasil HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1036267.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil SD" tvg-logo="http://static.clubsrv.me/logos/canais/cnn.png" group-title="Canais: Notícias",CNN Brasil SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1036266.ts
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globonews.png" group-title="Canais: Notícias",Globo News HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/159.ts
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globonews.png" group-title="Canais: Notícias",Globo News SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/158.ts
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/recordnews.png" group-title="Canais: Notícias",Record News HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/254.ts
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/recordnews.png" group-title="Canais: Notícias",Record News SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/253.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/premiere.png" group-title="Canais: Premiere",Premiere 1 SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/229.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/premiere.png" group-title="Canais: Premiere",Premiere 2 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/231.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/premiere.png" group-title="Canais: Premiere",Premiere 2 SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/230.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/premiere.png" group-title="Canais: Premiere",Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/233.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/premiere.png" group-title="Canais: Premiere",Premiere 3 SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/232.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/premiere.png" group-title="Canais: Premiere",Premiere 4 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/236.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/premiere.png" group-title="Canais: Premiere",Premiere 4 SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/235.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/premiere.png" group-title="Canais: Premiere",Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/238.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/premiere.png" group-title="Canais: Premiere",Premiere 5 SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/237.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/premiere.png" group-title="Canais: Premiere",Premiere 6 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/64653.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/premiere.png" group-title="Canais: Premiere",Premiere 6 SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/239.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/premiere.png" group-title="Canais: Premiere",Premiere 7 SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/240.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/premiere.png" group-title="Canais: Premiere",Premiere 8 SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/241.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/premiere.png" group-title="Canais: Premiere",Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/244.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/premiere.png" group-title="Canais: Premiere",Premiere Clubes SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/243.ts
+#EXTINF:-1 tvg-id="RecordTVBahia" tvg-name="Record Bahia HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/record.png" group-title="Canais: Records",Record Bahia HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/252.ts
+#EXTINF:-1 tvg-id="Recorddf.br" tvg-name="Record Brasília SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/record.png" group-title="Canais: Records",Record Brasília SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715078.ts
+#EXTINF:-1 tvg-id="Recorddf.br" tvg-name="Record Campinas HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/record.png" group-title="Canais: Records",Record Campinas HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/247.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Campinas SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/record.png" group-title="Canais: Records",Record Campinas SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/246.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Esp. Santo SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/record.png" group-title="Canais: Records",Record Esp. Santo SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/248.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record MG SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/record.png" group-title="Canais: Records",Record MG SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715079.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record RJ HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/record.png" group-title="Canais: Records",Record RJ HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715077.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record RS HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/record.png" group-title="Canais: Records",Record RS HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032892.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record SP HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/record.png" group-title="Canais: Records",Record SP HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/250.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record SP SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/record.png" group-title="Canais: Records",Record SP SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/249.ts
+#EXTINF:-1 tvg-id="RedeSuperdeTelevisao.br" tvg-name="Rede Familia SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/record.png" group-title="Canais: Records",Rede Familia SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/13416.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/hbo2.png" group-title="Canais: Rede HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/174.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/hbo2.png" group-title="Canais: Rede HBO",HBO 2 SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/173.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/hbofamily.png" group-title="Canais: Rede HBO",HBO Family HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/177.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/hbofamily.png" group-title="Canais: Rede HBO",HBO Family SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/176.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/hbo.png" group-title="Canais: Rede HBO",HBO HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/171.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HD" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais: Rede HBO",HBO Mundi HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/194.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi SD" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais: Rede HBO",HBO Mundi SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/193.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/hboplus.png" group-title="Canais: Rede HBO",HBO Plus HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/179.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/hboplus.png" group-title="Canais: Rede HBO",HBO Plus SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/178.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus*e HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/hboplus.png" group-title="Canais: Rede HBO",HBO Plus*e HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/181.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus*e SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/hboplus.png" group-title="Canais: Rede HBO",HBO Plus*e SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/180.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop HD" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais: Rede HBO",HBO Pop HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/200.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/maxup.png" group-title="Canais: Rede HBO",HBO Pop SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/199.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/hbo.png" group-title="Canais: Rede HBO",HBO SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/170.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/hbosignature.png" group-title="Canais: Rede HBO",HBO Signature HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/183.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/hbosignature.png" group-title="Canais: Rede HBO",HBO Signature SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/182.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme HD" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais: Rede HBO",HBO Xtreme HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/196.ts
+#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="HBO Xtreme SD" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais: Rede HBO",HBO Xtreme SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/195.ts
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canção Nova HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/cancaonova.png" group-title="Canais: Religioso",Canção Nova HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1036447.ts
+#EXTINF:-1 tvg-id="Rbi.br" tvg-name="Novo Tempo SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/novotempo.png" group-title="Canais: Religioso",Novo Tempo SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/221.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Gospel SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/redegospel.png" group-title="Canais: Religioso",Rede Gospel SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/717116.ts
+#EXTINF:-1 tvg-id="Rbi.br" tvg-name="RIT TV SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/rit.png" group-title="Canais: Religioso",RIT TV SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/717114.ts
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/tvaparecida.png" group-title="Canais: Religioso",TV Aparecida SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/717115.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Século 21" tvg-logo="http://img.rtrmsrv22.gq/images/logos/seculo21.png" group-title="Canais: Religioso",TV Século 21
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755662.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/canaldoboi.png" group-title="Canais: Variedades",Canal do Boi SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1038287.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/canalrural.png" group-title="Canais: Variedades",Canal Rural SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1038286.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chef TV HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/cheftv.png" group-title="Canais: Variedades",Chef TV HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032891.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoverychannel.png" group-title="Canais: Variedades",Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/57.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoverychannel.png" group-title="Canais: Variedades",Discovery Channel SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/56.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery H&H HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoveryhh.png" group-title="Canais: Variedades",Discovery H&H HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/61.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery H&H SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoveryhh.png" group-title="Canais: Variedades",Discovery H&H SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/60.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/tlc.png" group-title="Canais: Variedades",Discovery TLC HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/290.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/tlc.png" group-title="Canais: Variedades",Discovery TLC SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/289.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoveryturbo.png" group-title="Canais: Variedades",Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/69.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoveryturbo.png" group-title="Canais: Variedades",Discovery Turbo SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/68.ts
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/e.png" group-title="Canais: Variedades",E! HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/80.ts
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/e.png" group-title="Canais: Variedades",E! SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/79.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ei Plus #1" tvg-logo="http://img.rtrmsrv22.gq/images/logos/eiplus.png" group-title="Canais: Esportes",Ei Plus #1
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715087.ts
+#EXTINF:-1 tvg-id="" tvg-name="FashionTV HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/fashiontv.png" group-title="Canais: Variedades",FashionTV HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1038360.ts
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/filmarts.png" group-title="Canais: Variedades",Film & Arts SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1038290.ts
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/foodnetwork.png" group-title="Canais: Variedades",Food Network HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/104.ts
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/foodnetwork.png" group-title="Canais: Variedades",Food Network SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/103.ts
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/gnt.png" group-title="Canais: Variedades",GNT HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/125.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/gnt.png" group-title="Canais: Variedades",GNT SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/124.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/lifetime.png" group-title="Canais: Variedades",Lifetime HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/190.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/lifetime.png" group-title="Canais: Variedades",Lifetime SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/189.ts
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Mais Globosat HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/maisglobosat.png" group-title="Canais: Variedades",Mais Globosat HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/165.ts
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Mais Globosat SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/maisglobosat.png" group-title="Canais: Variedades",Mais Globosat SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/164.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHK HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/nhk.png" group-title="Canais: Variedades",NHK HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1038359.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHK SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/nhk.png" group-title="Canais: Variedades",NHK SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1038358.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polishop TV SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/polishop.png" group-title="Canais: Variedades",Polishop TV SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1038288.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shoptime SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/shoptime.png" group-title="Canais: Variedades",Shoptime SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1038289.ts
+#EXTINF:-1 tvg-id="" tvg-name="Travel Box Brasil HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/travelboxbrazil.png" group-title="Canais: Variedades",Travel Box Brasil HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1038159.ts
+#EXTINF:-1 tvg-id="" tvg-name="Travel Box Brasil SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/travelboxbrazil.png" group-title="Canais: Variedades",Travel Box Brasil SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1018480.ts
+#EXTINF:-1 tvg-id="" tvg-name="TruTV SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/trutv.png" group-title="Canais: Variedades",TruTV SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032890.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/viva.png" group-title="Canais: Variedades",Viva HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/330.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viva SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/viva.png" group-title="Canais: Variedades",Viva SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/329.ts
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/woohoo.png" group-title="Canais: Variedades",Woohoo HD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/334.ts
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/woohoo.png" group-title="Canais: Variedades",Woohoo SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/333.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx Clubhot" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx Clubhot
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/354.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx Pornhub SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx Pornhub SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/352.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx Lovenight SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx Lovenight SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/348.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Penthouse" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Penthouse
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/347.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Erotic" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Erotic
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/345.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Brazzers" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Brazzers
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/339.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Venus SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Venus SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/353.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Sexy Hot SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Sexy Hot SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/338.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Jasmin.tv" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Jasmin.tv
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/346.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Playboy TV SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Playboy TV SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/337.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Sextreme SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Sextreme SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/356.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 10" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 10
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755702.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 11" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 11
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755703.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 14" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 14
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755706.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 15" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 15
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755707.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 16" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 16
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755708.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 19" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 19
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755711.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 20" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 20
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755712.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 21" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 21
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755713.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 22" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 22
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755714.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 1" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 1
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755716.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 2" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 2
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755717.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 3" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 3
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755718.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 4" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 4
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755719.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 5" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 5
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755720.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 6" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 6
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755721.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 7" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 7
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755722.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 8" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 8
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755723.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 9" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 9
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755724.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 12" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 12
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755727.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 13" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 13
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755728.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 17" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 17
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755732.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 18" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 18
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755733.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 23" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 23
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755738.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 24" tvg-logo="http://img.rtrmsrv22.gq/images/logos/x.png" group-title="Canais: Adultos",Xxx: Ondemand 24
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755739.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band SP FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/band.png" group-title="Canais: Abertos",Band SP FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66371.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record SP FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/record.png" group-title="Canais: Abertos",Record SP FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/251.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sbt.png" group-title="Canais: Abertos",SBT SP FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/50780.ts
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/animalplanet.png" group-title="Canais: Documentários",Animal Planet FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66372.ts
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/arte1.png" group-title="Canais: Documentários",Arte 1 FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/714885.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoverychannel.png" group-title="Canais: Documentários",Discovery Channel FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66368.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoveryscience.png" group-title="Canais: Documentários",Discovery Science FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/50769.ts
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoverytheater.png" group-title="Canais: Documentários",Discovery Theater FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/714887.ts
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoveryworld.png" group-title="Canais: Documentários",Discovery World FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/714888.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/h2.png" group-title="Canais: Documentários",H2 FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/367.ts
+#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoverycivilization.png" group-title="Canais: Documentários",HGTV FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/50768.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History Channel FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/history.png" group-title="Canais: Documentários",History Channel FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/50775.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID Investigação Discovery FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/id.png" group-title="Canais: Documentários",ID Investigação Discovery FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/64647.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="Nat Geo Wild FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/natgeowild.png" group-title="Canais: Documentários",Nat Geo Wild FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/714895.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/nationalgeographic.png" group-title="Canais: Documentários",National Geographic FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/214.ts
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/bandsports.png" group-title="Canais: Esportes",Band Sports FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032878.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/combate.png" group-title="Canais: Esportes",Combate FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/50.ts
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/espn2.png" group-title="Canais: Esportes",ESPN 2 FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/358.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/espnbrasil.png" group-title="Canais: Esportes",ESPN Brasil FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66362.ts
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/espn.png" group-title="Canais: Esportes",ESPN FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66363.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/foxsports2.png" group-title="Canais: Esportes",Fox Sports 2 FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/50772.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/foxsports1.png" group-title="Canais: Esportes",Fox Sports FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/119.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sportv2.png" group-title="Canais: Esportes",SporTV 2 FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/276.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sportv3.png" group-title="Canais: Esportes",SporTV 3 FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/50776.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sportv.png" group-title="Canais: Esportes",SporTV FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/50777.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/ae.png" group-title="Canais: Filmes e Séries",A&E FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/3.ts
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/amc.png" group-title="Canais: Filmes e Séries",AMC FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66373.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/axn.png" group-title="Canais: Filmes e Séries",AXN FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/14.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/sony.png" group-title="Canais: Filmes e Séries",Canal Sony FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/267.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/cinemax.png" group-title="Canais: Filmes e Séries",Cinemax FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66369.ts
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/comedycentral.png" group-title="Canais: Filmes e Séries",Comedy Central FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/714884.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Fox FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/fox.png" group-title="Canais: Filmes e Séries",Fox FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/50771.ts
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/foxlife.png" group-title="Canais: Filmes e Séries",Fox Life FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032880.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/foxpremium1.png" group-title="Canais: Filmes e Séries",Fox Premium 1 FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/359.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/foxpremium2.png" group-title="Canais: Filmes e Séries",Fox Premium 2 FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/360.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/fx.png" group-title="Canais: Filmes e Séries",FX FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/100.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/megapix.png" group-title="Canais: Filmes e Séries",Megapix FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/50779.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Channel FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/paramount.png" group-title="Canais: Filmes e Séries",Paramount Channel FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66352.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/space.png" group-title="Canais: Filmes e Séries",Space FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/270.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/tnt.png" group-title="Canais: Filmes e Séries",TNT FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/50774.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Séries FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/tntseries.png" group-title="Canais: Filmes e Séries",TNT Séries FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/50773.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/universalchannel.png" group-title="Canais: Filmes e Séries",Universal Channel FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66345.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/warner.png" group-title="Canais: Filmes e Séries",Warner Channel FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/64643.ts
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Globo Nordeste FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo Nordeste FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66360.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo RJ FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/365.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo SP FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/364.ts
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Bahia FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Bahia FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1036432.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Integração SD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globo.png" group-title="Canais: Globo",Globo TV Integração SD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1038311.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/lifetime.png" group-title="Canais: Globo",Lifetime FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032887.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/maisglobosat.png" group-title="Canais: Globo",Mais Globosat FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032885.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/studiouniversal.png" group-title="Canais: Globosat Filmes",Studio Universal FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/281.ts
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/syfy.png" group-title="Canais: Globosat Filmes",SyFy FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66348.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecineaction.png" group-title="Canais: Globosat Filmes",Telecine Action FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/297.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecinecult.png" group-title="Canais: Globosat Filmes",Telecine Cult FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/300.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecinefun.png" group-title="Canais: Globosat Filmes",Telecine Fun FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/303.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecinepipoca.png" group-title="Canais: Globosat Filmes",Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/306.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecinepremium.png" group-title="Canais: Globosat Filmes",Telecine Premium FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66347.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecinetouch.png" group-title="Canais: Globosat Filmes",Telecine Touch FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/311.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/boomerang.png" group-title="Canais: Infantil",Boomerang FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66370.ts
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/cartoon.png" group-title="Canais: Infantil",Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/39.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoverykids.png" group-title="Canais: Infantil",Discovery Kids FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66366.ts
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Channel FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/disney.png" group-title="Canais: Infantil",Disney Channel FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/714889.ts
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/disneyjr.png" group-title="Canais: Infantil",Disney Junior FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66364.ts
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/disneyxd.png" group-title="Canais: Infantil",Disney XD FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/714890.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gloob FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/gloob.png" group-title="Canais: Infantil",Gloob FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/366.ts
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="Nat Geo Kids FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/natgeokids.png" group-title="Canais: Infantil",Nat Geo Kids FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/209.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/nickjr.png" group-title="Canais: Infantil",Nick Jr FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66354.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/nick.png" group-title="Canais: Infantil",Nickelodeon FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755755.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/tooncast.png" group-title="Canais: Infantil",Tooncast FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1036433.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/mtvlive.png" group-title="Canais: Musicas",MTV Live FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/369.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/multishow.png" group-title="Canais: Musicas",Multishow FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/205.ts
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/band.png" group-title="Canais: Notícias",Band News FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/714886.ts
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/globonews.png" group-title="Canais: Notícias",Globo News FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/714892.ts
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/recordnews.png" group-title="Canais: Notícias",Record News FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66351.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/premiere.png" group-title="Canais: Premiere",Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/50778.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/hbo2.png" group-title="Canais: Rede HBO",HBO 2 FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/175.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="Hbo Family FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/hbofamily.png" group-title="Canais: Rede HBO",Hbo Family FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032886.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/hbo.png" group-title="Canais: Rede HBO",HBO FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66359.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/hboplus.png" group-title="Canais: Rede HBO",HBO Plus FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/64646.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/hbosignature.png" group-title="Canais: Rede HBO",HBO Signature FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/64645.ts
+#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais: Rede HBO",HBO Xtreme FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66356.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoveryh%26h.png" group-title="Canais: Variedades",Discovery H&H FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66367.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/tlc.png" group-title="Canais: Variedades",Discovery TLC FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/1032879.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/discoveryturbo.png" group-title="Canais: Variedades",Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66365.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/foodnetwork.png" group-title="Canais: Variedades",Food Network FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66361.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viva FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/viva.png" group-title="Canais: Variedades",Viva FHD
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/66344.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Scooby Doo" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Scooby Doo
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715089.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Vai Que Cola" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Vai Que Cola
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715090.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Popeye" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Popeye
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715091.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Cavaleiro Do Zodiaco" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Cavaleiro Do Zodiaco
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715092.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Jose Rei Do Egito" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Jose Rei Do Egito
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715094.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H O Fantastico Mundo De Bobby" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H O Fantastico Mundo De Bobby
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715095.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H O Maskara" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H O Maskara
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715096.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Big Mouth" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Big Mouth
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715097.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Naruto" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Naruto
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715098.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Todo Mundo Odeia O Chris" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Todo Mundo Odeia O Chris
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715099.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Tom E Jerry" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Tom E Jerry
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715100.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Caverna Do Dragão" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Caverna Do Dragão
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715101.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Peppa Pig" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Peppa Pig
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715102.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Jonny Quest" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Jonny Quest
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715103.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Patrulha Canina" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Patrulha Canina
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715104.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Eu A Patroa E As Crianças" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Eu A Patroa E As Crianças
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715105.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Galinha Pintadinha" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Galinha Pintadinha
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715106.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Pica Pau" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Pica Pau
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715107.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Homem Aranha" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Homem Aranha
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715108.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Ben 10" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Ben 10
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715109.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Chaves" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Chaves
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715110.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Bob Esponja" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Bob Esponja
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/715111.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H 3 Palavrinhas" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H 3 Palavrinhas
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/717100.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H A Cobrinha Azul" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H A Cobrinha Azul
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/717101.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H A Familia Dracula" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H A Familia Dracula
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/717102.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H A Mumia" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H A Mumia
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/717103.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H A Turma Do Pateta" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H A Turma Do Pateta
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/717105.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Acampamento Lakebottom" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Acampamento Lakebottom
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/717106.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Aladin Desenho Animado" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Aladin Desenho Animado
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/717107.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H As Aventuras De Jackie Chan" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H As Aventuras De Jackie Chan
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/717108.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H As Aventuras De Piggley Winks" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H As Aventuras De Piggley Winks
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/717109.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H As Aventuras De Tintim" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H As Aventuras De Tintim
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/717110.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Sitio Do Pica Pau Amarelo" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Sitio Do Pica Pau Amarelo
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755665.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H CSI Las Vegas" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H CSI Las Vegas
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755666.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Os Trapalhões" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Os Trapalhões
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755667.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H A Pantera Cor De Rosa" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H A Pantera Cor De Rosa
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755668.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Dragon Ball Super" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Dragon Ball Super
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755669.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Timão E Pumba" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Timão E Pumba
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755670.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H X-Men Antigo" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H X-Men Antigo
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755671.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Yugioh Clássico" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Yugioh Clássico
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755672.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Mickey Mouse" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Mickey Mouse
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755673.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Os Vingadores Desenho" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Os Vingadores Desenho
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755674.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Capitão Tsubasa" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Capitão Tsubasa
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755675.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Chapolin Colorado" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Chapolin Colorado
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755676.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Rick And Morty" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Rick And Morty
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755677.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Os Simpsons" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Os Simpsons
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755678.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H South Park" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H South Park
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755679.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Luluzinha" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Luluzinha
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755680.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H High Score Girl" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H High Score Girl
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755681.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Flash Gordon" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Flash Gordon
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755682.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Masha E O Urso" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Masha E O Urso
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755683.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Mundo Bita" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Mundo Bita
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755684.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Patati Patata" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Patati Patata
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755685.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Baby Shark" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Baby Shark
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755686.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Irmão Do Jorel" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Irmão Do Jorel
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755688.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Faisca E Fumaça" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Faisca E Fumaça
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755689.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H A Turma Da Monica" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H A Turma Da Monica
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755690.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Log Horizon" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Log Horizon
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755691.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Rick And Morty 2" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Rick And Morty 2
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755692.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Senran Kagura Shinovi" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Senran Kagura Shinovi
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755693.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Os Padrinhos Mágicos" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Os Padrinhos Mágicos
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755694.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Ben E Holly" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Ben E Holly
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755695.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Daniel Tigre" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Daniel Tigre
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755696.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Desenhos Biblicos" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Desenhos Biblicos
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755697.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Meu Amigãozão" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Meu Amigãozão
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755698.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H He Man Desenho" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H He Man Desenho
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755699.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Mortal Kombat" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="Canais: 24H",24H Mortal Kombat
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/487867/487867/755687.ts
+
