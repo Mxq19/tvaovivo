@@ -1,0 +1,221 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="https://www.cnnbrasil.com.br/_next/static/images/logo-0457804d41d68a5c1c3de124ff229c35.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - CNN Brasil
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Discovery Brasil
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/DiscoveryKids.br.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Discovery Kids
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Fox Brasil
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/FOXPremium1.br.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Fox Premium 1 Brasil
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/FoxSports.br.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Fox Sports Brasil
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/master.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/FX.us.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - FX Brasil
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Nick Jr Brasil 
+https://origin-02.nxplay.com.br/NICK_JR_BR_HD/tracks-v1a1a2/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2019/10/TRACE-BRAZUCA-logo-rgb.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Trace Brazuka
+https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/TVN-Brasil-webtvonlive.com_.jpg" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TVN Brasil
+http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Brasil
+http://150.161.93.220/hls/1080/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.agrobrasiltv.com.br/images/logo_agrobrasil_v10.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Agro Brasil
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clubeazbrasil.com/wp-content/uploads/2019/04/All-Sports-TV.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.boavontade.com/sites/all/themes/boavontade_ptbr/tv/img/logo-bvtv.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Boa Vontade
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5c53f22aed14e785d41864440f0f0217.jpg" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Canal 25 Jundiaí
+http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - CBN Rio
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - COM Brasil
+https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Esporte Interativo Plus
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lnSlOZ.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Fonte TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QbdReYf.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - FURG TV
+http://stream.furg.br:80/hls/furgtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D15qpCm.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - ITV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://luautv.com.br/wp-content/themes/temaLuauTv/i/logo.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Luau TV
+https://hls.brasilstream.com.br/live/luautv/luautv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.metropolenews.tv/wp-content/uploads/2020/04/Metropolenews-370x153-1.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Metrópole News TV
+http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8
+#EXTINF:-1 tvg-logo="https://mkkwebtv.com.br/upload/logo_branco_MkkWeb_TV_okk_pequinino_20190503.jpg" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - MKK Web TV
+http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gn66K1Z.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - MultiRio
+http://187.111.97.45:1935/webtv/webtv/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Nova Era TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.novotempo.com/wp-content/uploads/2020/03/logo-teste-novo-tempo-01.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TnSvJpd.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Portal Cultura Pará
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Rede Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cqD6DNY.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Rede Mão Amiga
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Rede RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vvrCWVo.jpg" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Rede Século 21
+https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Rede TV Mais
+https://5abdf4edae5bf.streamlock.net/tvarthdtv/tvarthdtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/67DQ3bk.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Rede União
+https://stmv1.ifantasy.com.br/tvu/tvu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h4WaIw5.jpg" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Santa Cecilia TV
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IceKUjf.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Sesc TV
+https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YrBt8gZ.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Summer TV
+http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
+#EXTINF:-1 tvg-logo="https://tcm10hd.com.br/wp-content/uploads/2019/06/272-x-90px.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TCM HD
+http://live.tcm10.com.br/tcm10.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hBaG4Ce.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5fyGrm5.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV ALMG
+http://streaming.almg.gov.br:80/live/tvalmg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G1VIULw.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV ALRN
+http://tv02.logicahost.com.br:1935/fundacao/fundacao/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gpg1TMu.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Ambiental
+http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xyYIdif.png" group-title="Religious", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k8Jjv7U.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Aplateia
+https://srv-rs1.sisdera.com/hls/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvarapuan.com.br/2019/images/uploaded/grupo/9729ae26c38070d5febf2aa538a1a880.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ejp65zr.png" group-title="Movies", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+#EXTINF:-1 tvg-logo="https://pbr.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Carioca
+https://5d2c98775bafe.streamlock.net/8180/8180/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvc16.com/images/logo-tvc.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Cidade Canal 9
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvc16.com/images/logo-tvc.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Cidade de Petrópolis
+https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Cidade Verde
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bEoN2tt.png" group-title="Movies", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Cinec
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yayrlnl.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Comunitária do Rio de Janeiro
+https://59f1cbe63db89.streamlock.net:1443/tvcrio/_definst_/tvcrio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Câmara 2
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MnIvaNC.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV das Artes
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.nossasaopaulo.org.br/wp-content/uploads/2019/11/logo-destak.jpg" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Destak
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-FyuPxPq-klc/XQ0tqGbS0KI/AAAAAAAABME/q0GLmUzUG18A3R0IRqW-7u1jnOkk_ogpQCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-16-17-17.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Digital Birigui
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.diariodosertao.com.br/wp-content/themes/tema/img/icon-header-tv-diario-sertao.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Diário do Sertão
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.fcp.rs.gov.br/v2/wp-content/uploads/2012/06/logo.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Educativa de Porto Alegre
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.padrereginaldomanzotti.org.br/wp-content/themes/padre/images/logo.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Evangelizar
+http://flash32k.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.gideoes.com.br/wp-content/uploads/2018/12/logotipo-tvgideoes.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Gideões
+https://streaming01.zas.media/gideoes/tv.smil/chunklist_w516252397_b1396000_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://portalguara.com/wp-content/uploads/2019/02/assinatura_portalguara.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Guará
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.caikron.com.br/player/mi/caikron_fundo_tvmi_original.jpg"  group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Imaculada Conceição
+https://caikron.com.br:8082/tvmi/tvmi/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvinterlagos.com.br/images/logo_tv2.jpg" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Interlagos
+http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srqLrr8.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Mar Maceió
+https://v7.ciclano.io:1443/tvmar/tvmar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OMf3oG9.png" ggroup-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - ", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Max Rio
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvnailha.com.br/img/284974862.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV na Ilha
+https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/55/Logotipo_da_TV_O_Povo.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV O Povo
+http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="Religious", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Pai Eterno
+http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.paranaeducativa.pr.gov.br/modules/destaques/uploads/1558978355Destaque.jpg" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Paraná
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="http://tvriopreto.com.br/novalogopreta.jpg" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Rio Preto
+https://livefocamundo.com:8081/8162/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Sol
+http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
+#EXTINF:-1 tvg-logo="https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Sol Comunidade
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.terceiroanjo.com/static/img/logo-2019-gif.gif" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Terceiro Anjo
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/Jn1UpIfvbCmwfdL2kfTv8Ducomw=/300x300/top/smart/hagah/f/f0/tv-transamerica-f03030fc.jpg" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Transamérica
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
+#EXTINF:-1 tvg-logo="https://portaldatropical.com.br/images/site/logo-portal-da-tropical.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Tropical
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvverdescampossat.com/static/images/logoTipo.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Verdes Campos
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/br-tvci-5201.jpg" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TVCI Paranaguá
+http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvuniaobrasilia.com.br/wp-content/uploads/2020/01/Lg_Tv_Uniao_Bsb_Canal_300px.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV União
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.univervideo.com/Content/images/tvuniversal/logo-tvuniversal.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Universal
+https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.unesp.br/img/logo.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Unesp
+https://video.unesp.br/live/indoor.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvpantanalms.com.br/wp-content/uploads/2019/09/logo_menor.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Pantanal Ms
+https://stream1.asaweb.com.br:444/tvpantanalms/tvpantanalms/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvufg.org.br/wp-content/uploads/2018/10/logo_tv_ufg_azul_16bit.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TV Ufg
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://irdeb.ba.gov.br/_novo/img/marcaTVE.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:-1 tvg-logo="http://unitv.tv.br/images/logo.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - UniTV Porto Alegre
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vuihRMl.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Web TV Minas
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPX68cv.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Web TV Santana
+http://tv02.logicahost.com.br:1935/santana01/santana01/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Web TV Uai
+https://livefocamundo.com:8081/8266/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://demo.cdn.tv.br/logo/1582120665.1606147.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Yeeaah!
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvzoom.com.br/wp-content/uploads/2019/03/cropped-logo1.png" group-title="Português/Brasil", [B][COLOR darkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR][/B] - Zoom
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
+
+
