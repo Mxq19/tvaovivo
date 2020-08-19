@@ -1,0 +1,96 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/firetvhd/Logos/master/tvaparecida.jpg" group-title="VARIEDADES",[COLOR white][B]REDE APARECIDA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/firetvhd/Logos/master/can%C3%A7aonova.png" group-title="VARIEDADES",[COLOR white][B]CANÇÃO NOVA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/firetvhd/Logos/master/cnnbrasil.png" group-title="VARIEDADES",[COLOR white][B]CNN BRASIL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/firetvhd/Logos/master/record.png" group-title="VARIEDADES",[COLOR white][B]RECORD DF[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/firetvhd/Logos/master/band.png" group-title="VARIEDADES",[COLOR white][B]BAND[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1343720763.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/firetvhd/Logos/master/record.png" group-title="VARIEDADES",[COLOR white][B]RECORD RN[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunklist_w859714357.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/firetvhd/Logos/master/sbt.png" group-title="VARIEDADES",[COLOR white][B]SBT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=http://srv3.zoeweb.tv:1935/z133-live/stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/31K9C87" group-title="VARIEDADES",[COLOR white][B]TV MANCHETE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://stmv.voxtvhd.com.br/tvmanchate/tvmanchate/chunklist_w1011741392.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2DTxU7p" group-title="VARIEDADES",[COLOR white][B]CANAL 29[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1629623381.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRxQ81" group-title="VARIEDADES",[COLOR white][B]TV ARACATI[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/33Pkm7L" group-title="VARIEDADES",[COLOR white][B]REDE BRASIL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w2098179070.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/firetvhd/Logos/master/redetv.png" group-title="VARIEDADES",[COLOR white][B]REDE TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/30P8X5M" group-title="VARIEDADES",[COLOR white][B]ISTV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://stmv.voxtvhd.com.br/istv/istv/chunklist_w624558549.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3kDkmxE" group-title="VARIEDADES",[COLOR white][B]CARTOON RETRO[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1276977538.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3kzPqhT" group-title="VARIEDADES",[COLOR white][B]TV J.SID[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://livefocamundo.com:8081/8650/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2DYF4XI" group-title="VARIEDADES",[COLOR white][B]Web TV RWCG[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w1576272622.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2POoLzr" group-title="VARIEDADES",[COLOR white][B]TV Japi[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w2105809836.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2DCOTLu" group-title="VARIEDADES",[COLOR white][B]TV CARIOCA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w2145277482.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/33OfIqC" group-title="VARIEDADES",[COLOR white][B]Cine Trianon TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1906553091.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3anfisC" group-title="VARIEDADES",[COLOR white][B]LATINA SAT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://livefocamundo.com:8081/8470/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3iyGQ0P" group-title="VARIEDADES",[COLOR white][B]TV LIBERDADE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=http://01.paineldevideo.com/rtguarany/rtguarany/chunklist_w1825491206.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/31LUkj1" group-title="VARIEDADES",[COLOR white][B]TOP TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w604787773.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/firetvhd/Logos/master/cultura.jpg" group-title="VARIEDADES",[COLOR white][B]CULTURA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3kE7J5l" group-title="VARIEDADES",[COLOR white][B]TV Nova Onda[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w599446802.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3gSYonR" group-title="VARIEDADES",[COLOR white][B]Web TV Progresso[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chunklist_w1350541967.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2PMzzhE" group-title="VARIEDADES",[COLOR white][B]Classique TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://stmv1.srvif.com/classiquetv/classiquetv/chunklist_w2018726838.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2PMzISe" group-title="VARIEDADES",[COLOR white][B]Krónos Movie Web TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2PNdbF2" group-title="VARIEDADES",[COLOR white][B]KCEPATV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://59f2354c05961.streamlock.net:1443/kcepatv/_definst_/kcepatv/chunklist_w1101410782.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/33UkWRt" group-title="VARIEDADES",[COLOR white][B]VIVA WEB TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w1469976078.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/33S671W" group-title="VARIEDADES",[COLOR white][B]Kuriakos Kids[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=http://c2.manasat.com:1935/kkids/kkids2/chunklist_w1445092469.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3agUaEj" group-title="VARIEDADES",[COLOR white][B]TV Digital Birigui[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w2053979113.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2XVwekH" group-title="VARIEDADES",[COLOR white][B]Rede Premium TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist_b1392640.m3u8?sts=st=1597252453~exp=1597259053~acl=/*~hmac=8b53e91523df7b2927d6af89bac8c1ac9e8f5e91e7c5e40831a9720add0cd2cf
+#EXTINF:-1 tvg-logo="https://bit.ly/2DYHFAW" group-title="VARIEDADES",[COLOR white][B]TV GAZETA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3kEChUE" group-title="VARIEDADES",[COLOR white][B]TV Evangelizar[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w123396716.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3gQP6sx" group-title="VARIEDADES",[COLOR white][B]Gospel Movies Television[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1814896795.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2DLNZMz" group-title="VARIEDADES",[COLOR white][B]REDE TV Sul[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://tv.bitstreaming.info:1936/redetvsultvstation/redetvsultvstation/chunklist_w1838359603.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2E0saZC" group-title="VARIEDADES",[COLOR white][B]TV Serra Verde[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://stmv6.srvstm.com/leandro9908/leandro9908/chunklist_w1757200273.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/33St0lL" group-title="VARIEDADES",[COLOR white][B]CTV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://5d2c98775bafe.streamlock.net/cariritv/cariritv/chunklist_w869110592.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3fLJkqU" group-title="VARIEDADES",[COLOR white][B]TV Destak[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w815939527.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2FfMaI5" group-title="VARIEDADES",[COLOR white][B]ALL SPORTS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1995284241.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2XT1UHF" group-title="VARIEDADES",[COLOR white][B]GOSPEL CARTOON[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w926810276.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3kG13Uv" group-title="VARIEDADES",[COLOR white][B]TV Infor Bahia[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/chunklist_w1976121577.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2XXUgvE" group-title="VARIEDADES",[COLOR white][B]IMPERIAL TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://5b7f3c45ab7c2.streamlock.net/8002/8002/chunklist_w1943250647.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3izo09N" group-title="VARIEDADES",[COLOR white][B]TV8 BRASIL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/chunklist_b1064000.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/33WcO30" group-title="VARIEDADES",[COLOR white][B]TV JORNAL DO NORDESTE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w512836673.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3gSCPns" group-title="VARIEDADES",[COLOR white][B]TV SÉRIES[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=tvfogo&streamtype=HLSRETRY&amp;url=https://stmv4.srvstm.com/tvserie/tvserie/chunklist_w691947383.m3u8
+
