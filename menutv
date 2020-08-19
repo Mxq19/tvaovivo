@@ -1,8 +1,31 @@
 <item>
-<title>[COLOR lime]*[/COLOR][COLOR orange]MANUTENÇÃO[/COLOR] - [COLOR white]EM BREVE NOVIDADES[/COLOR]</title>
-<link>https://</link>
-<thumbnail>https://i.imgur.com/FcM4qIb.png</thumbnail>
-<fanart>https://clubealphaville.com.br/wp-content/uploads/2018/12/MANUTEN%C3%87%C3%83O.jpg</fanart>
-<info></info>
-<date></date>
+<title>[B][COLOR lime]*[/COLOR] [COLOR white]Servidor 1[/COLOR][/B] </title>                                            
+<link>http://ignorame</link>
+<thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
+<fanart>https://i.imgur.com/87izghc.png</fanart>
+<externallink>https://raw.githubusercontent.com/Mxq19/tvaovivo/master/servidor1</externallink>
+</item>
+
+<item>
+<title>[B][COLOR lime]*[/COLOR] [COLOR white]Servidor 2[/COLOR][/B] [B][COLOR blue][/COLOR][TC][/B]</title>                                            
+<link>http://ignorame</link>
+<thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
+<fanart>https://i.imgur.com/87izghc.png</fanart>
+<externallink>https://raw.githubusercontent.com/Mxq19/tvaovivo/master/TC</externallink>
+</item>
+
+<item>
+<title>[B][COLOR lime]*[/COLOR] [COLOR white]Servidor 3[/COLOR][/B] [B][COLOR yellow][/COLOR][F4mTester][/B]</title>                                            
+<link>http://ignorame</link>
+<thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
+<fanart>https://i.imgur.com/87izghc.png</fanart>
+<externallink>https://raw.githubusercontent.com/Mxq19/tvaovivo/master/F4mTester</externallink>
+</item>
+
+<item>
+<title>[B][COLOR lime]*[/COLOR] [COLOR white]Servidor 4[/COLOR][/B] [B][COLOR red][/COLOR][Canais Abertos][/B]</title>                                            
+<link>http://ignorame</link>
+<thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
+<fanart>https://i.imgur.com/87izghc.png</fanart>
+<externallink>https://raw.githubusercontent.com/Mxq19/tvaovivo/master/abertos</externallink>
 </item>
