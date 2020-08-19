@@ -1,219 +1,219 @@
 
 
 #EXTM3U
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - A&E HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89435
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89436
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - ARTE 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89437
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - AXN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89438
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - BAND HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89439
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - BAND NEWS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89440
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - BAND SPORTS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89441
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - BIS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89442
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - BOOMERANG HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89443
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89444
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - CANÇÃO NOVA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89445
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89446
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - CHEF TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89447
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - CINEMAX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89448
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - CLIMATEMPO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89449
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - COMBATE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89450
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89451
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - CURTA! HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89452
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISNEY CH. HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89453
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HGTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89454
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISCOVERY H&H HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89455
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISCOVERY ID HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89456
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89457
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89458
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISCOVERY THEATHER HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89459
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89460
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89461
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89462
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89463
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISNEY XD HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89464
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - E! HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89465
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - FASHION TV  HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89466
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - A&E HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89435
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89436
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - ARTE 1 HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89437
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - AXN HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89438
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - BAND HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89439
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - BAND NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89440
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89441
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - BIS HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89442
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - BOOMERANG HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89443
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89444
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - CANÇÃO NOVA HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89445
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89446
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - CHEF TV HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89447
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - CINEMAX HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89448
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - CLIMATEMPO HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89449
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - COMBATE HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89450
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89451
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - CURTA! HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89452
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISNEY CH. HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89453
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HGTV HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89454
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISCOVERY H&H HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89455
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISCOVERY ID HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89456
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89457
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89458
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISCOVERY THEATHER HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89459
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89460
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89461
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89462
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89463
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - DISNEY XD HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89464
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - E! HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89465
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - FASHION TV  HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89466
 
 
 
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - FISH TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89467
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - FOX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89468
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89469
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - FOX PREMIUM 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89470
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - FOX PREMIUM 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89471
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - FUTURA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89472
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - FX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89473
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89474
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - GLOBO RIO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89475
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - GLOBO SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89476
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - GLOOB HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89477
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - GNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89478
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HBO 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89479
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HBO FAMILY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89480
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HBO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89481
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HBO PLUS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89482
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89483
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HISTORY 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89484
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HISTORY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89485
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - IDEAL TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89486
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - LIFETIME HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89487
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - MAIS GLOBOSAT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89488
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HBO MUNDI HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89489
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HBO  XTREME  HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89490
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HBO POP  HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89491
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - MEGAPIX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89492
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - MTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89493
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - MULTISHOW HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89494
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - NAT GEO KIDS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89495
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89496
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89497
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - NBR  HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89498
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - NICK JR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89499
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - NICKELODEON HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89500
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - OFF HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89501
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - PARAMOUNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89502
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - PLAY TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89503
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - RBI HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89504
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - RCI HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89505
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - RECORD HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89506
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - RECORD NEWS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89507
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - REDE BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89508
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - REDE CNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89509
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - REDE TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89510
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - REDE VIDA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89511
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - RIT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89512
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - SBT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89513
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - SONY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89514
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - SPACE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89515
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89516
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - SYFY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89517
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TBS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89518
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TCM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89519
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89520
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TELECINE CULT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89521
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TELECINE FUN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89522
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89523
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89524
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89525
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TLC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89526
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89527
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TNT SERIES HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89528
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TOONCAST HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89529
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TRAVEL BOX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89530
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TRU TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89531
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TV RATIMBUM
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89532
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TV BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89533
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TV CÂMARA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89534
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TV ESCOLA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89536
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TV GAZETA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89537
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - UNIVERSAL CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89541
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - VH1
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89542
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - VIVA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89543
-#EXTINF:-1, [COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR] - WARNER HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]*[/COLOR][COLOR red] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89544
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - FISH TV HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89467
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - FOX HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89468
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89469
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - FOX PREMIUM 1 HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89470
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - FOX PREMIUM 2 HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89471
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - FUTURA HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89472
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - FX HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89473
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89474
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - GLOBO RIO HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89475
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - GLOBO SP HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89476
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - GLOOB HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89477
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - GNT HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89478
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89479
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HBO FAMILY HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89480
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HBO HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89481
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89482
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89483
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HISTORY 2 HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89484
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HISTORY HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89485
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - IDEAL TV HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89486
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - LIFETIME HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89487
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - MAIS GLOBOSAT HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89488
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HBO MUNDI HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89489
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HBO  XTREME  HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89490
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - HBO POP  HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89491
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89492
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - MTV HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89493
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89494
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - NAT GEO KIDS HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89495
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89496
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89497
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - NBR  HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89498
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - NICK JR HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89499
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - NICKELODEON HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89500
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - OFF HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89501
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - PARAMOUNT HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89502
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - PLAY TV HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89503
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - RBI HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89504
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - RCI HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89505
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - RECORD HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89506
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - RECORD NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89507
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - REDE BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89508
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - REDE CNT HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89509
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - REDE TV HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89510
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - REDE VIDA HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89511
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - RIT HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89512
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - SBT HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89513
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - SONY HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89514
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - SPACE HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89515
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89516
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - SYFY HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89517
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TBS HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89518
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TCM HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89519
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89520
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TELECINE CULT HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89521
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TELECINE FUN HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89522
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89523
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89524
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89525
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TLC HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89526
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TNT HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89527
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TNT SERIES HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89528
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TOONCAST HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89529
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TRAVEL BOX HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89530
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TRU TV HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89531
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TV RATIMBUM
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89532
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TV BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89533
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TV CÂMARA HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89534
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TV ESCOLA HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89536
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - TV GAZETA HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89537
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89541
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - VH1
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89542
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - VIVA HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89543
+#EXTINF:-1, [COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR] - WARNER HD
+plugin://plugin.video.f4mTester/?name=[COLORdarkorange] TV[/COLOR][COLOR orange]Fogo[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://ecuaplaytv.com:8000/lululufeh/jakPdIcmUK/89544
 
