@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <item> 
-<title>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B][/I]</title> 
+<title>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR red]CANAIS ABERTOS[/COLOR][/B][/I]</title> 
 <link>here</link> 
 <thumbnail>https://i.imgur.com/ZBjtOaS.png</thumbnail> 
 </item>
@@ -163,7 +163,7 @@
 </item>
 
 <item>
-<title>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B][/I]</title>
+<title>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR red]DOCUMENTÁRIOS[/COLOR][/B][/I]</title>
 <link>here</link>
 <thumbnail>https://i.imgur.com/mBeuZbZ.png</thumbnail>
 </item>
@@ -334,7 +334,7 @@
 </item>
 
 <item>
-<title>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B][/I]</title>
+<title>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR red]ESPORTES[/COLOR][/B][/I]</title>
 <link>here</link>
 <thumbnail>https://i.imgur.com/fXQnwVJ.png</thumbnail>
 </item>
@@ -472,7 +472,7 @@
 </item>
 
 <item>
-<title>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR white]FILMES & SÉRIES[/COLOR][/B][/I]</title>
+<title>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR red]FILMES & SÉRIES[/COLOR][/B][/I]</title>
 <link>here</link>
 <thumbnail>https://i.imgur.com/MNLwoy3.png</thumbnail>
 </item>
@@ -907,7 +907,7 @@
 </item>
 
 <item>
-<title>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B][/I]</title>
+<title>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR red]INFANTIL[/COLOR][/B][/I]</title>
 <link>here</link>
 <thumbnail>https://i.imgur.com/b6W1NTg.png</thumbnail>
 </item>
@@ -1067,7 +1067,7 @@
 </item>
 
 <item>
-<title>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR white]MÚSICAS & VARIEDADES[/COLOR][/B][/I]</title>
+<title>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR red]MÚSICAS & VARIEDADES[/COLOR][/B][/I]</title>
 <link>here</link>
 <thumbnail>https://i.imgur.com/hNELIF6.png</thumbnail>
 </item>
@@ -1227,7 +1227,7 @@
 </item>
 
 <item>
-<title>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR white]NOTÍCIAS[/COLOR][/B][/I]</title>
+<title>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR red]NOTÍCIAS[/COLOR][/B][/I]</title>
 <link>here</link>
 <thumbnail>https://i.imgur.com/CLCnGhN.png</thumbnail>
 </item>
@@ -1266,7 +1266,7 @@
 </item>
 
 <item>
-<title>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR white]Adultos (+18)[/COLOR][/B][/I]</title>
+<title>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR red]Adultos (+18)[/COLOR][/B][/I]</title>
 <link>here</link>
 <thumbnail>https://i.imgur.com/eTeUXjQ.png</thumbnail>
 </item>
