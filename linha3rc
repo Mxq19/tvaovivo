@@ -523,13 +523,6 @@
 <thumbnail>https://raw.githubusercontent.com/Mxq19/tvaovivo/master/Logos/foxpremium1.jpg</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[TVFOGOHD]foxpremium1/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>TVFOGOHD</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/NJFmX4Wg</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/Mxq19/tvaovivo/master/Logos/foxpremium1.jpg</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
