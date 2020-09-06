@@ -98,9 +98,10 @@
 
 <item>
 <title>[B][COLOR white]RECORD NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[TVFOGOHD]recordnewshd/video.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>TVFOGOHD</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/NJFmX4Wg</page></regex>
-
+<link>$doregex[TVFOGOHD]recordnewshd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>TVFOGOHD</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/NJFmX4Wg</page></regex>
+<thumbnail>https://raw.githubusercontent.com/Mxq19/tvaovivo/master/Logos/record_news.png</thumbnail>
+</item>
 
 <item>
 <title>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR red]INFANTIL[/COLOR][/B][/I]</title>
